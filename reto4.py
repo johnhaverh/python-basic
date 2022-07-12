@@ -1,5 +1,6 @@
 #Reto 4
 #John Haver Herrera
+#Mision TIC 2022
 
 from posixpath import split
 

@@ -1,5 +1,6 @@
 #Reto 5
 #John Haver Herrera
+#Mision TIC 2022
 
 def leerArchivo():
     with open("/Users/johnhaverh/Downloads/MisionTic/Programación/Retos/data.csv",'r') as datafile:

@@ -1,5 +1,6 @@
 #Reto 2
 #John Haver Herrera
+#Mision TIC 2022
 
 valor1=int(input())
 valor2=int(input())

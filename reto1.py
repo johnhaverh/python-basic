@@ -1,5 +1,6 @@
 #Reto 1
 #John Haver Herrera
+#Mision TIC 2022
 
 indAyunas = str(input("Indique si está en ayunas <Si>/<No>: "))
 valGlucosaSangre = float(input("Ingrese en valor de grlucosa en sangre mmol/l "))
